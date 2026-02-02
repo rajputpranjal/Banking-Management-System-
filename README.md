@@ -16,13 +16,9 @@ Open bank accounts
 Deposit and withdraw money
 
 Implemented a transaction logging mechanism that automatically records every deposit and withdrawal.
-
 Created a trigger to prevent negative balances and ensure safe withdrawal operations.
-
 Built a PL/SQL function to retrieve real-time account balance.
-
 Applied exception handling to manage invalid accounts and insufficient balance scenarios.
-
 Used COMMIT and ROLLBACK for transaction consistency and reliability.
 
 Technical skills:
