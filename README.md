@@ -7,6 +7,17 @@ Developed a database-driven Banking Management System using Oracle SQL and PL/SQ
 Key Features & Responsibilities:
 
 Designed and implemented relational database tables for Customers, Accounts, and Transactions with primary and foreign key constraints.
-
 Used Oracle Sequences to auto-generate unique IDs for customers, accounts, and transactions.
+
+Developed PL/SQL stored procedures to:
+Create customers
+Open bank accounts
+Deposit and withdraw money
+
+Implemented a transaction logging mechanism that automatically records every deposit and withdrawal.
+Created a trigger to prevent negative balances and ensure safe withdrawal operations.
+Built a PL/SQL function to retrieve real-time account balance.
+Applied exception handling to manage invalid accounts and insufficient balance scenarios.
+Used COMMIT and ROLLBACK for transaction consistency and reliability.
+
 
