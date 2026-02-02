@@ -11,7 +11,7 @@ Used Oracle Sequences to auto-generate unique IDs for customers, accounts, and t
 
 Developed PL/SQL stored procedures to:
 
-Create customers
+Create customers	
 Open bank accounts
 Deposit and withdraw money
 
