@@ -25,4 +25,27 @@ Applied exception handling to manage invalid accounts and insufficient balance s
 
 Used COMMIT and ROLLBACK for transaction consistency and reliability.
 
+Technical skills:
+
+Database: Oracle SQL
+
+Language: PL/SQL
+
+Concepts Used:
+
+Tables & Constraints
+
+Sequences
+
+Stored Procedures
+
+Functions
+
+Triggers
+
+Exception Handling
+
+Transactions (COMMIT / ROLLBACK)
+
+
 
