@@ -10,6 +10,7 @@ Designed and implemented relational database tables for Customers, Accounts, and
 Used Oracle Sequences to auto-generate unique IDs for customers, accounts, and transactions.
 
 Developed PL/SQL stored procedures to:
+
 Create customers
 Open bank accounts
 Deposit and withdraw money
