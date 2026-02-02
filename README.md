@@ -22,6 +22,7 @@ Applied exception handling to manage invalid accounts and insufficient balance s
 Used COMMIT and ROLLBACK for transaction consistency and reliability.
 
 #how it's work: 
+
 Developed an Oracle SQL-based Banking Management System to handle customer accounts, transactions, and balance updates using PL/SQL procedures.
 
 #Technical skills:
